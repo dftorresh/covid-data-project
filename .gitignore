@@ -1,0 +1,6 @@
+airflow/logs/
+terraform/.terraform/
+terraform/*.tfplan
+terraform/*.tfstate
+terraform/*.hcl
+terraform/*.backup
