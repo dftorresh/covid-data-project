@@ -4,3 +4,4 @@ terraform/*.tfplan
 terraform/*.tfstate
 terraform/*.hcl
 terraform/*.backup
+dev/
