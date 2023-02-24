@@ -1,5 +1,6 @@
 airflow/logs/
 airflow/tasks/data_ingestion/__pycache__/
+airflow/dags/__pycache__/
 terraform/.terraform/
 terraform/*.tfplan
 terraform/*.tfstate
