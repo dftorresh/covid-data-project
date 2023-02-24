@@ -1,6 +1,8 @@
 airflow/logs/
+airflow/tasks/data_ingestion/__pycache__/
 terraform/.terraform/
 terraform/*.tfplan
 terraform/*.tfstate
 terraform/*.hcl
 terraform/*.backup
+dev/
