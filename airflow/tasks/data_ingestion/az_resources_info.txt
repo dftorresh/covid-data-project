@@ -1,0 +1,2 @@
+resource_group_name = "covidj_data_project_rg"
+storage_account_url = "https://covidprojedb8db58sa.blob.core.windows.net/"
